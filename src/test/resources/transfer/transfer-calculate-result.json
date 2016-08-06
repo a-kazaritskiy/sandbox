@@ -1,0 +1,16 @@
+{
+	"result": {
+		"from": {
+			"account": "me",
+			"currency": "RUB",
+			"amount": "1.00"
+		},
+		"to": {
+			"account": "you",
+			"currency": "RUB",
+			"amount": "1.00"
+		},
+		"rate": "1",
+		"fee": "0.00"
+	}
+}

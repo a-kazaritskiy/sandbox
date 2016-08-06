@@ -1,0 +1,9 @@
+{
+	"result": {
+		"id": "1",
+		"status": "success",
+		"currency": "RUB",
+		"amount": "1.00",
+		"balance": "2.00"
+	}
+}
